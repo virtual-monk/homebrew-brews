@@ -1,4 +1,4 @@
-class PhpAT72@7215 < Formula
+class PhpAT7215 < Formula
   desc "General-purpose scripting language"
   homepage "https://secure.php.net/"
   url "https://php.net/get/php-7.2.15.tar.xz/from/this/mirror"
